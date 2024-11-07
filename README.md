@@ -15,7 +15,7 @@ I have reviewed the GenLayer whitepaper and taken into account our previous disc
    - **Testing and Quality Control**: Testing strategies, code reviews, and continuous integration (Link: [dev](https://github.com/zacksfF/Document_GenLayer/tree/main/.dev))
 
 - **Part 3: Collaboration and Second Developer's Role**  
-   Discuss the collaboration setup and how tasks will be divided between you and the second developer (Link: [second_Go_dev](https://github.com/zacksfF/Document_GenLayer/tree/main/.second_Go_dev)).
+   Discuss the collaboration setup and how tasks will be divided between me and the second Go developer (Link: [second_Go_dev](https://github.com/zacksfF/Document_GenLayer/tree/main/.second_Go_dev)).
 
 5. **Part 4: Improvement Tasks**  
    Identify what's missing in the current roadmap and suggest improvements or optimizations, particularly for scalability (Link: [improvement_tasks](https://github.com/zacksfF/Document_GenLayer/tree/main/.improvement_tasks)).
