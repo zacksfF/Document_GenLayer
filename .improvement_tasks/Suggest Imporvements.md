@@ -1,4 +1,4 @@
-This part ensure of the discuss what is missing on the node's roadmap / what would you change.
+This part ensure of the discuss what is missing on the node's roadmap / what would I change.
 --------------------------------------------------------------------
 
 As a Distributed Systems and Blockchain Engineer with Advanced Golang skills working on the GenLayer Node, I have thoroughly reviewed the whitepaper and project roadmap, identifying key areas for improvement that would enhance scalability, reliability, and performance. Collaborating with the team, I have proposed and refined specific improvements based on practical insights from blockchain and distributed systems best practices. Each suggested enhancement is aimed at addressing potential bottlenecks and ensuring that the GenLayer Node can operate efficiently at a large scale, with a focus on optimal resource usage, robust error handling, and advanced security. These recommendations are structured to be both impactful and achievable, allowing the team to prioritize and implement them strategically.
