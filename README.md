@@ -1,6 +1,7 @@
 # GenLayer Docs
 
 Please read it carefully 
+
 I have reviewed the GenLayer whitepaper and taken into account our previous discussions to develop a comprehensive plan for the GenLayer Node. This document outlines the approach for node development, the project structure, and collaboration strategies. It also identifies missing elements in the current roadmap and suggests improvements for scaling the node. The work is structured into different sections for better clarity and easier follow-up, ensuring we stay aligned as we move forward with development.
 
 ### README Structure:
